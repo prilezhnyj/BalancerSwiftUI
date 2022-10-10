@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EC2026E228F3AB0200801E8A /* NewExpenseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC2026E128F3AB0200801E8A /* NewExpenseView.swift */; };
+		EC2026E428F3C2DB00801E8A /* TabBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC2026E328F3C2DB00801E8A /* TabBarView.swift */; };
 		ECBF527928F38B9B00EB3EFF /* BalancerSwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECBF527828F38B9B00EB3EFF /* BalancerSwiftUIApp.swift */; };
 		ECBF527B28F38B9B00EB3EFF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECBF527A28F38B9B00EB3EFF /* ContentView.swift */; };
 		ECBF527D28F38B9C00EB3EFF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ECBF527C28F38B9C00EB3EFF /* Assets.xcassets */; };
@@ -14,6 +16,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		EC2026E128F3AB0200801E8A /* NewExpenseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewExpenseView.swift; sourceTree = "<group>"; };
+		EC2026E328F3C2DB00801E8A /* TabBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarView.swift; sourceTree = "<group>"; };
 		ECBF527528F38B9B00EB3EFF /* BalancerSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BalancerSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ECBF527828F38B9B00EB3EFF /* BalancerSwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BalancerSwiftUIApp.swift; sourceTree = "<group>"; };
 		ECBF527A28F38B9B00EB3EFF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +57,8 @@
 			children = (
 				ECBF527828F38B9B00EB3EFF /* BalancerSwiftUIApp.swift */,
 				ECBF527A28F38B9B00EB3EFF /* ContentView.swift */,
+				EC2026E128F3AB0200801E8A /* NewExpenseView.swift */,
+				EC2026E328F3C2DB00801E8A /* TabBarView.swift */,
 				ECBF527C28F38B9C00EB3EFF /* Assets.xcassets */,
 				ECBF527E28F38B9C00EB3EFF /* Preview Content */,
 			);
@@ -139,6 +145,8 @@
 			files = (
 				ECBF527B28F38B9B00EB3EFF /* ContentView.swift in Sources */,
 				ECBF527928F38B9B00EB3EFF /* BalancerSwiftUIApp.swift in Sources */,
+				EC2026E428F3C2DB00801E8A /* TabBarView.swift in Sources */,
+				EC2026E228F3AB0200801E8A /* NewExpenseView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
